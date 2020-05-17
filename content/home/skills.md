@@ -14,22 +14,41 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+
+[[feature]] 
+icon = "chart-bar" 
+icon_pack = "fas" 
+name = "Data Visualization" 
+description = "★ ★ ★ ★"
+
+[[feature]] 
+icon = "dice" 
+icon_pack = "fas" 
+name = "Statistics" 
+description = "★ ★ ★"
+
+[[feature]] 
+icon = "project-diagram" 
+icon_pack = "fas" 
+name = "Research Design" 
+description = "★ ★ ★ ★"
+
+[[feature]] 
+icon = "r-project" 
+icon_pack = "fab" 
+name = "R" 
+description = "★ ★ ★ ★"
+
+[[feature]] 
+icon = "dna" 
+icon_pack = "fas" 
+name = "Genomics" 
+description = "★ ★ ★ ★ ★"
+
+[[feature]] 
+icon = "desktop" 
+icon_pack = "fas" 
+name = "Data Analysis" 
+description = "★ ★ ★ ★"
 
 +++
