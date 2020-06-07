@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Bioinformatics
     institution: Imperial College London, UK
-    year: 2019
+    year: 2020
   - course: MSc in Molecular Biology
     institution: Faculty of Science, University of Zagreb, Croatia
     year: 2015
@@ -17,6 +17,7 @@ email: "dunja.vucenovic@gmail.com"
 interests:
 - Gene expression and regulatory networks
 - Embryonic development
+- Cancer genomics
 - Data analysis of big data
 name: Dunja Vucenovic
 organizations:
@@ -41,9 +42,12 @@ user_groups:
 - Researchers
 - Visitors
 ---
+<br/><br/>
+<br/><br/>
 
-Hey there, thanks for stopping by :)
+Hello there, thanks for stopping by :)
 
 
-I am a PhD student/Marie Curie Early stage Researcher at London Instutute of Medical Sciences. 
+I have recently obtained a PhD in bioinformatics from Imperial College London. During that time, I was Marie Curie Early stage Researcher at London Instutute of Medical Sciences where I investigated gene expression regulation during embryonic development in zebrafish. 
 
+To keep up with the current methods in Data Analysis and Genomics, I plan to do some smaller scale analysis projects that I will write about here. 

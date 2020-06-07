@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 by Dunja Vucenovic</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 by Dunja Vucenovic</copyright><lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,11 +15,16 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Hey there, thanks for stopping by :)&lt;/p&gt;
+      <description>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 
-&lt;p&gt;I am a PhD student/Marie Curie Early stage Researcher at London Instutute of Medical Sciences.&lt;/p&gt;
+&lt;p&gt;Hello there, thanks for stopping by :)&lt;/p&gt;
+
+&lt;p&gt;I have recently obtained a PhD in bioinformatics from Imperial College London. During that time, I was Marie Curie Early stage Researcher at London Instutute of Medical Sciences where I investigated gene expression regulation during embryonic development in zebrafish.&lt;/p&gt;
+
+&lt;p&gt;To keep up with the current methods in Data Analysis and Genomics, I plan to do some smaller scale analysis projects that I will write about here.&lt;/p&gt;
 </description>
     </item>
     
